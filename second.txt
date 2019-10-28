@@ -6,3 +6,5 @@ git is here
 fast forward merging learning
 
 updated for merge commit
+
+git rebase
