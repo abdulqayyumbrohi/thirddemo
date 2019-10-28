@@ -5,3 +5,6 @@ new changes
 =======
 fast forward merge
 >>>>>>> newtest
+
+
+hello world to  merge commit
