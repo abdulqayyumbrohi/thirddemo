@@ -8,3 +8,5 @@ fast forward merge
 
 
 hello world to  merge commit
+
+rebase master
